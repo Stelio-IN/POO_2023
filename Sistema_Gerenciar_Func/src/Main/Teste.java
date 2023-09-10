@@ -10,7 +10,7 @@ import Classes.Gerente;
 
 /**
  *
- * @author steli
+ * @author stelioAM
  */
 public class Teste {
 
